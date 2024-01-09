@@ -1,0 +1,10 @@
+{
+  "python.analysis.extraPaths": [
+    "./modules",
+    "./PE2_mod1.3.2/modules",
+    "./PE2_mod1.3.2/modules",
+    "./packages",
+    "./packages",
+    "./packages"
+  ]
+}
