@@ -1,0 +1,8 @@
+Test Test Test Test Test
+Python Essential 2 from Cisco Skill for All
+Manipilating files
+
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
