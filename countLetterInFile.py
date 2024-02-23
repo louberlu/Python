@@ -19,5 +19,5 @@ except IOError as e:
     exit(e.errno)
 
 for key in alphaCount.keys():
-    if alphaCount[key] != 0:
+    if alphaCount[key] > 0:
         print(key, "->", alphaCount[key])
