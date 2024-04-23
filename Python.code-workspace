@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Django"
+		},
+		{
+			"path": "../../../../xampp/htdocs/PHP"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PHP",
+		"cppbuild.isEnabled": false
+	}
+}
